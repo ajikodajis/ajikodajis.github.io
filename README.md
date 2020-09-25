@@ -1,6 +1,6 @@
 # Ajikodajis Home Page
 
-This is the code for ajikodaji's homepage; forked from [Yevgeniy Brikman Home Page Code]https://github.com/brikis98/yevgeniy-brikman-homepage).
+This is the code for ajikodaji's homepage; forked from [Yevgeniy Brikman Home Page Code :: https://github.com/brikis98/yevgeniy-brikman-homepage].
 
 ## Quick start
 

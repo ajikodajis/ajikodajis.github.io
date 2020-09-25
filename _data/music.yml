@@ -1,0 +1,9 @@
+- name: "Bhag Guna Ani Jor Ghatau"
+  date: "1995"
+  description: |
+        Our class had to sing song for Parent's Day. We sang about mathematics - brilliant!
+  embed_url: "//castbox.fm/app/castbox/player/id2354/id248469999?v=8.19.1&autoplay=0&hide_list=1"
+  wrapper_style: "padding-bottom: 35%"
+  links:
+    - label: "Podcast"
+      url: "https://www.se-radio.net/2020/04/episode-405-yevgeniy-brikman-on-infrastructure-as-code-best-practices/"
